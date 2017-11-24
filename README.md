@@ -1,2 +1,2 @@
-Python Interactive - Coursera
+Python application - Coursera
 build asteroids game
